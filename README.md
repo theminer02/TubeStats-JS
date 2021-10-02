@@ -28,4 +28,4 @@ The original Bot rebuild in JavaScript.
 
 ---
 
-**Bot-Version:** v2.1
+**Bot-Version:** v3.0-dev
