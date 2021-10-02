@@ -3,7 +3,8 @@
 
 ## Info
 A Discord-Bot that collects and sends YouTube stats for a provided channel.
-The original Bot rebuild in JavaScript.
+
+The original bot remade in JavaScript.
 
 ---
 
@@ -24,7 +25,7 @@ The original Bot rebuild in JavaScript.
 
 **Status page:** https://stats.uptimerobot.com/gMl9DtlX91/788884339
 
-**GitHub:** https://github.com/TheMiner02/TubeStats-Bot
+**GitHub:** https://github.com/TheMiner02/TubeStats-JS
 
 ---
 
